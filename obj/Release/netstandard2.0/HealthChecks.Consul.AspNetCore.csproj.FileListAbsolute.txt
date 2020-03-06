@@ -1,0 +1,17 @@
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\bin\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.deps.json
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\bin\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.dll
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\bin\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.pdb
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.csproj.CoreCompileInputs.cache
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.AssemblyInfoInputs.cache
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.AssemblyInfo.cs
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.dll
+F:\Companies\Developing\MicroServices\src\BuildingBlocks\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.pdb
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\bin\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.deps.json
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\bin\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.dll
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\bin\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.pdb
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.csproj.CoreCompileInputs.cache
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.AssemblyInfoInputs.cache
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.AssemblyInfo.cs
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.dll
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.pdb
+F:\Demos\OcelotTest\HealthChecks.Consul.AspNetCore\obj\Release\netstandard2.0\HealthChecks.Consul.AspNetCore.csprojAssemblyReference.cache

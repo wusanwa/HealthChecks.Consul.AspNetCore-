@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Companies\\Developing\\MicroServices\\src\\BuildingBlocks\\HealthChecks.Consul.AspNetCore\\HealthChecks.Consul.AspNetCore.csproj": {}
+  },
+  "projects": {
+    "F:\\Companies\\Developing\\MicroServices\\src\\BuildingBlocks\\HealthChecks.Consul.AspNetCore\\HealthChecks.Consul.AspNetCore.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Companies\\Developing\\MicroServices\\src\\BuildingBlocks\\HealthChecks.Consul.AspNetCore\\HealthChecks.Consul.AspNetCore.csproj",
+        "projectName": "HealthChecks.Consul.AspNetCore",
+        "projectPath": "F:\\Companies\\Developing\\MicroServices\\src\\BuildingBlocks\\HealthChecks.Consul.AspNetCore\\HealthChecks.Consul.AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\Wss\\.nuget\\packages\\",
+        "outputPath": "F:\\Companies\\Developing\\MicroServices\\src\\BuildingBlocks\\HealthChecks.Consul.AspNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "F:\\Companies\\Developing\\MicroServices\\src\\WebApps\\ShinyCommunity\\NuGet.Config",
+          "F:\\Companies\\Developing\\MicroServices\\NuGet.Config",
+          "C:\\Users\\Wss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.20.197:8001/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/webapinetcore/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Winton.Extensions.Configuration.Consul": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
